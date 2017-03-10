@@ -4,7 +4,7 @@ Tip calculator pre-work for CodePath iOS bootcamp
 
 Submitted by: Paul Palathingal
 
-Time Spent: 15 hours spent in total
+Time Spent: 10 hours spent in total
 
 The following **required** functionality is complete:
 
